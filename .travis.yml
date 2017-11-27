@@ -11,6 +11,4 @@ cache:
 node_js:
   - 6
   - 8
-before_install:
-  - npm install -g recink
-script: recink run unit
+script: echo "Hello World!"
