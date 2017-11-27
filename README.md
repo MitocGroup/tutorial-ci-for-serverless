@@ -92,4 +92,4 @@ git push --set-upstream origin tutorial-step2
 And there you go, our first successful build:
 https://travis-ci.org/MitocGroup/tutorial-ci-for-serverless/builds/283669984
 
-[Click to Continue with Next Step](https://github.com/MitocGroup/tutorial-ci-for-serverless/tree/tutorial-step3#step-2-setup-travis-ci#step-3-setup-unit-testing)
+[Click to Continue with Next Step](https://github.com/MitocGroup/tutorial-ci-for-serverless/tree/tutorial-step3#step-3-setup-unit-testing)
