@@ -51,20 +51,6 @@ $:
     '$.coverage.compare.storage.options.1.accessKeyId': 'eval'
     '$.coverage.compare.storage.options.1.secretAccessKey': 'eval'
     '$.snyk.token': 'eval'
-    '$.cache.options.1.region': 'eval'
-    '$.cache.options.1.accessKeyId': 'eval'
-    '$.cache.options.1.secretAccessKey': 'eval'
-
-  cache:
-    paths: []
-    npm: true
-    driver: 's3'
-    options:
-      - 's3://travis-metadata/cache/MitocGroup/tutorial-ci-for-serverless/'
-      -
-        region: 'process.env.AWS_DEFAULT_REGION'
-        accessKeyId: 'process.env.AWS_ACCESS_KEY_ID'
-        secretAccessKey: 'process.env.AWS_SECRET_ACCESS_KEY'
 
 ### Add other modules here...
 todomvc:

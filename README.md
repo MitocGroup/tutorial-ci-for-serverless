@@ -460,40 +460,4 @@ git commit -m "enable snyk"
 git push --set-upstream origin tutorial-step8
 ```
 
-### Step 9: Setup S3 Caching
-
-> Step 9 Branch:
-https://github.com/MitocGroup/tutorial-ci-for-serverless/tree/tutorial-step9
-
-To be updated.
-
-Once we have updated `.recink.yml` and `.travis.yml`, we can commit the code
-back to our repository:
-
-```shell
-# assuming you're still inside the tutorial repository
-git checkout -b tutorial-step9
-git add .travis.yml .recink.yml
-git commit -m "enable s3 caching"
-git push --set-upstream origin tutorial-step9
-```
-
-### Final Step: Summary
-
-In this tutorial, we walked you through how to:
-
-1. Setup Continuous Integration (using GitHub and Travis CI)
-2. Setup Unit Testing (using Mocha and REciNK)
-3. Setup Code Coverage and Code Analysis (using Code Climate and REciNK)
-4. Setup Continuous Security (using Snyk and REciNK)
-
-At the time of writing, our team is working on several more features that will
-be updated in this tutorial later:
-
-5. Setup Continuous Deployment (using Travis CI and DevOps tools)
-6. Setup End to End Testing (using TestCafe and REciNK)
-7. Setup Continuous Performance (using PageSpeed and REciNK)
-
-Any feedback is welcome! Feel free to reach us at www.mitocgroup.com, report bugs
-[by filing issues here](https://github.com/MitocGroup/tutorial-ci-for-serverless/issues)
-or contribute directly [as described here](CONTRIBUTING.md). Thank you!
+[Click to Continue with Next Step](https://github.com/MitocGroup/tutorial-ci-for-serverless/tree/tutorial-step9#step-9-setup-s3-caching)
