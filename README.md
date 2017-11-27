@@ -212,4 +212,4 @@ git commit -m "enable code coverage"
 git push --set-upstream origin tutorial-step4
 ```
 
-[Click to Continue with Next Step](https://github.com/MitocGroup/tutorial-ci-for-serverless/tree/tutorial-step5#step-2-setup-code-climate)
+[Click to Continue with Next Step](https://github.com/MitocGroup/tutorial-ci-for-serverless/tree/tutorial-step5#step-5-setup-code-climate)
